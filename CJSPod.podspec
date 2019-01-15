@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CJSPod'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = '组件测试'
 
 # This description is used to generate tags and improve search results.
