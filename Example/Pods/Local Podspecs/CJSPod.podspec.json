@@ -1,0 +1,22 @@
+{
+  "name": "CJSPod",
+  "version": "0.1.0",
+  "summary": "A short description of CJSPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/songsongchen/CJSPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "songsongchen": "496433317@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/songsongchen/CJSPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CJSPod/Classes/**/*"
+}
